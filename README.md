@@ -1,1 +1,0 @@
-# veri-madenciligi-odev2
