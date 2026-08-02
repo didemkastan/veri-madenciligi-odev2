@@ -3,7 +3,7 @@ getwd()
 #setwd("C:/Users/Deniz/Desktop/odev")
 
 # CSV veri setini calisma klasorunden oku
-veri <- read.csv("C:/Users/Deniz/Desktop/odev/Youth_Tobacco_Survey_YTS_Data (1).csv")
+veri <- read.csv("Youth_Tobacco_Survey_YTS_Data.csv")
 
 # Veri setini tablo seklinde goruntule
 View(veri)
