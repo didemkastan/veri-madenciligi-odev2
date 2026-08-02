@@ -1,6 +1,5 @@
 # Calisma dizinini kontrol et
 getwd()
-#setwd("C:/Users/Deniz/Desktop/odev")
 
 # CSV veri setini calisma klasorunden oku
 veri <- read.csv("Youth_Tobacco_Survey_YTS_Data.csv")
