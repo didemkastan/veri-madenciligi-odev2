@@ -51,8 +51,6 @@ Bu çalışmada `student-mat.csv` veri seti üzerinde R ile veri analizi uygulam
 
 | Dosya | Açıklama |
 |---|---|
-| Dosya | Açıklama |
-|---|---|
 | `Youth_Tobacco_Survey_YTS_Odev_2-Kodlari.R` | Youth Tobacco Survey veri seti üzerinde temel R veri analizi |
 | `Student-Performance-Odev-3-Kodlari.R` | Öğrenci performans verisi üzerinde analiz uygulamaları |
 | `Youth_Tobacco_Survey_YTS_Data.csv` | Ödev 2 çalışmasında kullanılan veri seti |
