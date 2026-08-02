@@ -86,11 +86,6 @@ Bu veri seti üzerinde gerçekleştirilen işlemler:
 
 İkinci bölümde `student-mat.csv` dosyası kullanılarak öğrenci performans verileri analiz edilmiştir.
 
-Veri seti noktalı virgül ayırıcı kullanılarak okunmaktadır:
-
-```r
-veri2 <- read.csv("student-mat.csv", sep = ";")
-
 ## Repository İçeriği
 
 | Dosya | Açıklama |
@@ -109,3 +104,12 @@ veri2 <- read.csv("student-mat.csv", sep = ";")
 
 ```r
 install.packages("dplyr")
+
+Veri seti noktalı virgül ayırıcı kullanılarak okunmaktadır:
+
+```r
+veri2 <- read.csv("student-mat.csv", sep = ";")
+
+
+
+
