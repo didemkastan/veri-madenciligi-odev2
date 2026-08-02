@@ -64,4 +64,3 @@ Bu çalışmada `student-mat.csv` veri seti üzerinde R ile veri analizi uygulam
 
 ```r
 install.packages("dplyr")
-| `Youth_Tobacco_Survey_YTS_Data.csv` | Ödev 2 çalışmasında kullanılan veri seti; repository içinde yer almıyorsa ayrıca temin edilmelidir |
