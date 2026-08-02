@@ -93,7 +93,7 @@ qqline(veri1$not)
 getwd()
 
 # Kaggle'dan indirilen veri setini diskten oku
-veri2 <- read.csv("C:/Users/Deniz/Desktop/odev/student-mat.csv", sep = ";")
+veri2 <- read.csv("student-mat.csv", sep = ";")
 
 
 # -------------------------------
