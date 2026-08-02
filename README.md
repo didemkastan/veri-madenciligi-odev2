@@ -104,12 +104,22 @@ Bu veri seti üzerinde gerçekleştirilen işlemler:
 
 ```r
 install.packages("dplyr")
+```
 
-Veri seti noktalı virgül ayırıcı kullanılarak okunmaktadır:
+5. Paketi çalışma ortamına dahil edin:
+
+```r
+library(dplyr)
+```
+
+6. Youth Tobacco Survey veri setini okumak için:
+
+```r
+veri <- read.csv("Youth_Tobacco_Survey_YTS_Data.csv")
+```
+
+7. Student Performance veri setini noktalı virgül ayırıcıyla okumak için:
 
 ```r
 veri2 <- read.csv("student-mat.csv", sep = ";")
-
-
-
-
+```
